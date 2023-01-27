@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m on Twitter: https://twitter.com/yuriisydorets
-- 👯 Podcast: [Свой подкаст](https://anchor.fm/svojpodcast)  
+- 👯 Podcast: [Свой подкаст](https://anchor.fm/svojpodcast)
+- 📖 Blog: http://blog.yurii.online/
 - 📫 How to reach me: sidoretsyura@gmail.com
 - 😄 Pronouns: he/him/his
 
